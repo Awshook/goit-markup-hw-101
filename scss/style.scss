@@ -1,0 +1,8 @@
+@mixin fontSettings ($family, $size) {
+    font-family: $family;
+    font-size: $size;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
